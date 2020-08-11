@@ -1,5 +1,5 @@
 # TreeCounter by Kroes
-TreeCounter, an Android app to count Ecosia searches, free to use.
+TreeCounter, a simple Android app made on MIT app inventor to count Ecosia searches and its impacts, free to use.
 
 # How it looks
 ![preview](https://i.imgur.com/sPIWpPI.jpg)
