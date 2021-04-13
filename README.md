@@ -1,9 +1,6 @@
 # TreeCounter by Kroes
 TreeCounter, a simple Android app to count Ecosia searches and roughly analyse its impacts, free to use.
 
-# How it looks
-<img src="https://i.imgur.com/sPIWpPI.jpg" width="300" align="middle">
-
 # Installation
 1. Download the <a href="https://github.com/HectorKroes/TreeCounter/raw/master/TreeCounter_vFinal.apk">TreeCounter_vFinal.apk</a> file;
 2. Access the folder in which you downloaded it and click the file to run it;
